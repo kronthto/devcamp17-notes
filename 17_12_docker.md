@@ -2,7 +2,7 @@
 
 ### AUFS
 * FS in stacks
-+ Every FS stack (hash) -> image/template
+* Every FS stack (hash) -> image/template
 * `docker run` spawns Container (from image?)
 
 ### Docker registry
